@@ -20,10 +20,7 @@
   <img align="center" alt="Tailwind" height="40" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
 </div>
 
-## GitHub Stats ⚡
 
- <br><br>
-  <img align="center" alt="Loading" height="40" src="https://img.shields.io/badge/Loading...-000?style=for-the-badge&logo=power-shell&logoColor=white">
 
 
 ## Reach me 📫
