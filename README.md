@@ -20,7 +20,8 @@
   <img align="center" alt="Tailwind" height="40" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
 </div>
 
-
+![Juniorgomesss's Stats](https://github-readme-stats.vercel.app/api?username=Juniorgomesss&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![Juniorgomesss's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Juniorgomesss&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 
 ## Reach me 📫
